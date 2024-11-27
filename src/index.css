@@ -1,0 +1,26 @@
+body {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+nav {
+	display: flex;
+	flex-direction: column;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+h1, h2 {
+	margin: 0;
+}
+
+div#main {
+	display: flex;
+	margin: 20px;
+}
+
+div#student {
+	margin-left: 40px;
+}
